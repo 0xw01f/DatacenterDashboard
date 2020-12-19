@@ -1,6 +1,6 @@
 # Database Dashboard
 
-A PoC design for datacenter dashboards written in C#.
+A design concept for datacenter dashboards written in C#.
 
 ![Design](https://i.imgur.com/gfM8G7N.png)
 (demo)
